@@ -1,0 +1,1 @@
+# Yapay Zeka uygulama ödevleri
