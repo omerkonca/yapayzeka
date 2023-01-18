@@ -5,3 +5,4 @@ Bu repoda hafta hafta yapmış olduğum uygulama ödevlerini ekliyorum.
 # YAPAY ZEKA VE UZMAN SİSTEMLER      
  
  
+ 
