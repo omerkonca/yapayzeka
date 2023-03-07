@@ -1,0 +1,15 @@
+Gun ,Hava Durumu ,Sicaklik ,Nem ,Yagis ,Oyun
+G1 ,Gunesli ,Sicak ,Yuksek ,Seyrek ,Yok
+G2 ,Gunesli ,Sicak ,Yuksek ,Asiri ,Yok
+G3 ,Kapali ,Sicak ,Yuksek ,Seyrek ,Var
+G4 ,Yagmurlu ,Iliman ,Yuksek ,Seyrek ,Var
+G5 ,Yagmurlu ,Soguk ,Normal ,Seyrek ,Var
+G6 ,Yagmurlu ,Soguk ,Normal ,Asiri ,Yok
+G7 ,Kapali ,Soguk ,Normal ,Asiri ,Var
+G8 ,Gunesli ,Iliman ,Yuksek ,Seyrek ,Var
+G9 ,Gunesli ,Soguk ,Normal ,Seyrek ,Yok
+G10 ,Yagmurlu ,Iliman ,Normal ,Seyrek ,Var
+G11 ,Gunesli ,Iliman ,Normal ,Asiri ,Var
+G12 ,Kapali ,Iliman ,Yuksek ,Asiri ,Yok
+G13 ,Kapali ,Sicak ,Normal ,Seyrek ,Var
+G14 ,Yagmurlu ,Iliman ,Yuksek ,Asiri ,Yok
