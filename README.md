@@ -21,7 +21,7 @@ Bu repo şu anda sadece ödevlerin yer aldığı bir depodur ve katkı kabul etm
 
 ## Lisans
 
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Daha fazla bilgi için lütfen `LICENSE.txt` dosyasını inceleyin.
+Bu proje [MIT Lisansı](LICENSE.txt) altında lisanslanmıştır. Daha fazla bilgi için lütfen `LICENSE` dosyasını inceleyin.
 
 ## İletişim Bilgileri
 
